@@ -8,8 +8,8 @@
     </parent>
     <groupId>com.github.fakemongo</groupId>
     <artifactId>lombok-coverage</artifactId>
-    <version>1.6.1-SNAPSHOT</version>
-    <name>lombok-coverage</name>
+    <version>0.0.1-SNAPSHOT</version>
+    <name>coverage-against-the-machine</name>
     <licenses>
         <license>
             <name>The Apache Software License, Version 2.0</name>
@@ -18,9 +18,9 @@
         </license>
     </licenses>
     <scm>
-        <connection>scm:git:git@github.com:twillouer/lombok-coverage.git</connection>
-        <developerConnection>scm:git:git@github.com:twillouer/lombok-coverage.git</developerConnection>
-        <url>git@github.com:twillouer/lombok-coverage.git</url>
+        <connection>scm:git:git@github.com:twillouer/coverage-against-the-machine.git</connection>
+        <developerConnection>scm:git:git@github.com:twillouer/coverage-against-the-machine.git</developerConnection>
+        <url>git@github.com:twillouer/coverage-against-the-machine.git</url>
     </scm>
 
     <prerequisites>
