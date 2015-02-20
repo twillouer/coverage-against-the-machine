@@ -1,4 +1,4 @@
-package com.twillouer.lc;
+package com.github.twillouer.lc;
 
 import com.google.testing.compile.CompilationRule;
 import com.google.testing.compile.JavaFileObjects;
