@@ -1,7 +1,7 @@
 /**
  * Copyright (C) 2015 Deveryware S.A. All Rights Reserved.
  */
-package com.twillouer.lc;
+package com.github.twillouer.lc;
 
 import com.squareup.javapoet.AnnotationSpec;
 import com.squareup.javapoet.JavaFile;
